@@ -4,12 +4,12 @@ My graded 42 projects.
 >`Don't cheat, just code.`
 
 ## Table of contents
-* [Rank 1](README.md#rank-1--)
-<!--* [Rank 2](README.md#rank-2--)-->
-<!--* [Rank 3](README.md#rank-3--)-->
-<!--* [Rank 4](README.md#rank-4--)-->
-<!--* [Rank 5](README.md#rank-5--)-->
-<!--* [Rank 6](README.md#rank-6--)-->
+* [Rank 1](README.md#rank-1)
+<!--* [Rank 2](README.md#rank-2)-->
+<!--* [Rank 3](README.md#rank-3)-->
+<!--* [Rank 4](README.md#rank-4)-->
+<!--* [Rank 5](README.md#rank-5)-->
+<!--* [Rank 6](README.md#rank-6)-->
 <br/>
 
 ## Rank 1
