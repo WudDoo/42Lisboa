@@ -1,15 +1,16 @@
 # 42Lisboa
 My graded 42 projects.
-
-`<h1>Don't cheat, just code.</h1>`
+```
+<h1>Don't cheat, just code.</h1>
+```
 
 ## Table of contents
-* [Rank 1](README.md#rank-1)
-<!--* [Rank 2](README.md#rank-2)-->
-<!--* [Rank 3](README.md#rank-3)-->
-<!--* [Rank 4](README.md#rank-4)-->
-<!--* [Rank 5](README.md#rank-5)-->
-<!--* [Rank 6](README.md#rank-6)-->
+1. [Rank 1](#rank-1)
+<!--2. [Rank 2](#rank-2)-->
+<!--3. [Rank 3](#rank-3)-->
+<!--4. [Rank 4](#rank-4)-->
+<!--5. [Rank 5](#rank-5)-->
+<!--6. [Rank 6](#rank-6)-->
 <br/>
 
 ## Rank 1
