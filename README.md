@@ -1,7 +1,7 @@
 # 42Lisboa
 My graded 42 projects.
 
->`Don't cheat, just code.`
+`<h1>Don't cheat, just code.</h1>`
 
 ## Table of contents
 * [Rank 1](README.md#rank-1)
