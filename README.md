@@ -1,5 +1,5 @@
 # 42Lisboa
-#### My graded 42 projects
+My graded 42 projects
 
 * **C Piscine**
 * [**Rank 1**](https://github.com/WudDoo/42Lisboa/tree/main/Rank%201)
