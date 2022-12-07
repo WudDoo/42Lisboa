@@ -31,16 +31,3 @@ char	*get_next_line(int fd)
 	}
 	return (line);
 }
-
-/* #include<stdio.h>
-#include<fcntl.h>
-
-int	main(void)
-{
-	int	i = 0;
-	int	fd;
-
-	fd = open("test.txt", O_RDONLY);
-	while (i++ < 33)
-		printf("%s", get_next_line(fd));
-} */
