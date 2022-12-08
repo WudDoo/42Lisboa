@@ -13,7 +13,7 @@ My graded 42 projects.
 <!--6. [Rank 6](#rank-6)-->
 <br/>
 
-## Rank 1
+## [Rank 1](./Rank%201)
 | **Project** | **Grade** | **Bonus**
 | :---: | :---: | :---:
 | [Libft](./Rank%201/Libft) | 125% | :heavy_check_mark:
