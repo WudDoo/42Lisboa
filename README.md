@@ -1,5 +1,5 @@
 # 42Lisboa
-My graded 42 projects.
+My graded and ongoing 42 projects.
 ```
 <h1>Don't cheat, just code.</h1>
 ```
