@@ -15,7 +15,7 @@ My graded and ongoing 42 projects.
 
 ## [Rank 1](./Rank%201)
 | **Project** | **Grade** | **Bonus**
-| :---: | :---: | :---:
+| - | :-: | :-:
 | [Libft](./Rank%201/Libft) | 125% | :heavy_check_mark:
 | [ft_printf](./Rank%201/ft_printf) | 100% | :x:
 | [get_next_line](./Rank%201/get_next_line) | ... | 
@@ -24,26 +24,26 @@ My graded and ongoing 42 projects.
 <!--
 ## Rank 2
 | **Project** | **Grade** | **Bonus**
-| :---: | :---: | :---:
+| - | :-: | :-:
 <br/>
 
 ## Rank 3
 | **Project** | **Grade** | **Bonus**
-| :---: | :---: | :---:
+| - | :-: | :-:
 <br/>
 
 ## Rank 4
 | **Project** | **Grade** | **Bonus**
-| :---: | :---: | :---:
+| - | :-: | :-:
 <br/>
 
 ## Rank 5
 | **Project** | **Grade** | **Bonus**
-| :---: | :---: | :---:
+| - | :-: | :-:
 <br/>
 
 ## Rank 6
 | **Project** | **Grade** | **Bonus**
-| :---: | :---: | :---:
+| - | :-: | :-:
 <br/>
 -->
