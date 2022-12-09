@@ -18,7 +18,7 @@ My graded and ongoing 42 projects.
 | :---: | :---: | :---:
 | [Libft](./Rank%201/Libft) | 125% | :heavy_check_mark:
 | [ft_printf](./Rank%201/ft_printf) | 100% | :x:
-| [get_next_line](./Rank%201/get_next_line) | | 
+| [get_next_line](./Rank%201/get_next_line) | ongoing | 
 | Born2beRoot | | 
 <br/>
 <!--
