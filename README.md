@@ -41,7 +41,7 @@ My graded and ongoing projects @ [42 Lisboa](https://www.42lisboa.com/en/curricu
   </tr>
   <tr align="center">
     <td align="left">Born2beRoot</td>
-    <td><a href=""></a></td>
+    <td><a href="./Rank%201/Born2beRoot">...</a></td>
     <td></td>
   </tr>
 </table>
