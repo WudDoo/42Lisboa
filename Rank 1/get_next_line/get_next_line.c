@@ -6,7 +6,7 @@
 /*   By: mortins- <mortins-@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/02 15:18:57 by mortins-          #+#    #+#             */
-/*   Updated: 2022/12/07 16:10:24 by mortins-         ###   ########.fr       */
+/*   Updated: 2022/12/19 18:02:56 by mortins-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,10 +16,13 @@ char	*get_next_line(int fd)
 {
 	static char	box[BUFFER_SIZE + 1];
 	char		*line;
+	int			i;
 
+	i = 0;
 	if (read(fd, NULL, 0) < 0)
 	{
-		*box = 0;
+		while (box[i])
+			box[i++] = 0;
 		return (NULL);
 	}
 	line = NULL;
