@@ -36,8 +36,8 @@ My graded and ongoing projects @ [42 Lisboa](https://www.42lisboa.com/en/curricu
   </tr>
   <tr align="center">
     <td align="left">get_next_line</td>
-    <td><a href="./Rank%201/get_next_line">100</a></td>
-    <td></td>
+    <td><a href="./Rank%201/get_next_line">100%</a></td>
+    <td>✖️</td>
   </tr>
   <tr align="center">
     <td align="left">Born2beRoot</td>
