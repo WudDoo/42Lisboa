@@ -9,15 +9,18 @@ bootdate="`who -b | awk '{print $3" "$4}'`"
 lvm=(`if [ "$(lsblk | grep lvm | wc -l)" -gt 0 ]; then printf "Yes"; else printf "No"; fi`)
 tcp="`ss | grep tcp | wc -l` Established"
 user="`who | cut -d ' ' -f 1 | sort -u | wc -l`"
-
-wall "  #Architecture: $arch
-        #CPU(s): $pcpu
-        #vCPU(s): $vcpu
-        #RAM: $ram
-        #Disk Memory: $mem
-        #CPU load: $load
-        #Last boot: $bootdate
-        #LVM: $lvm
-        #Connections TCP: $tcp
-        #User log: $user
+ip="`hostname -I`(`ip link show | awk '/ether/ {print $2}'`)"
+cmds="`sudo awk '/COMMAND/' /var/log/sudo/sudo.log | wc -l`"
+wall "	#Architecture: $arch
+	#CPU(s): $pcpu
+	#vCPU(s): $vcpu
+	#RAM: $ram
+	#Disk Memory: $mem
+	#CPU load: $load
+	#Last boot: $bootdate
+	#LVM: $lvm
+	#Connections TCP: $tcp
+	#User log: $user
+	#Network: IP $ip
+	#Sudo: $cmds
 "
